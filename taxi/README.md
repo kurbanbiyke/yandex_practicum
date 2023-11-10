@@ -12,5 +12,5 @@
 - **pandas**
 - **scikit-learn**
 - **statsmodels**
-
+- **CatBoost**
   
