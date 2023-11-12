@@ -1,6 +1,6 @@
 
-# Учебные проекты программы Data-Science
 
+<center><h1>Yandex.Praktikum. Поекты Data Science Projects</h1></center>
 
 
 
