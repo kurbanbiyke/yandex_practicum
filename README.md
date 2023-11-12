@@ -1,8 +1,10 @@
 
 
-<center><h1>Yandex.Praktikum. Поекты Data Science Projects</h1></center>
+<center><h1>Yandex.Praktikum. Проекты Data Science</h1></center>
 
-
+<br>
+      <a href="https://github.com/kurbanbiyke/yandex_practicum/blob/main/диплом%20об%20окончании%20курса.pdf"><b>Диплом об окончании курса</b> :mortar_board: </a>
+</p><br>
 
 | Спринт | Название проекта | Описание | Используемые библиотеки и инструменты | Статуст проекта |
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
